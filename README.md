@@ -1,9 +1,9 @@
 # How to Use
-Create a probXX.java class with in/out files saved locally as probXX-1,2,3-in,out.txt <br><br>
-Open ProblemTester.java and follow it's directions
+Create a probXX.java class and save in/out files locally as probXX-1,2,3-in,out.txt <br><br>
+Open ProblemTester.java in the same src as probXX and follow it's directions
 1) In YOUR code -- add SetInputStream and SetPrintStream
-2) In ProblemTester -- fill in dirPath
-3) In ProblemTester -- Replace CLASS_NAME with probXX
+2) In ProblemTester -- replace PATH_NAME
+3) In ProblemTester -- replace CLASS_NAME
 
 <b>Run ProblemTester.java to see PASS/FAIL for each test case</b>
 
