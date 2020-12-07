@@ -46,7 +46,7 @@ public class ProblemTester {
 		setDirPath();
 
 		/**
-		 * files formatted "probXX-[1,2,3]-[in,out].txt"
+		 * files formatted "probXX-1,2,3-in,out.txt"
 		 */
 		
 		File[] allFiles = new File(dirPath).listFiles();
